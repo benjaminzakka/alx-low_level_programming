@@ -1,10 +1,10 @@
-#include "holberton.h"
+#include "main.h"
 
 /**
- * _strstr - finds the first occurrence of the substring.
+ * _strstr - this finds the first occurrence of my substring.
  * needle in the string haystack.
- * @haystack: entire string.
- * @needle: substring.
+ * @haystack: the entire string.
+ * @needle: the substring.
  * Return: pointer to the beginning of located substring or
  * NULL if the substring is not found.
 */
