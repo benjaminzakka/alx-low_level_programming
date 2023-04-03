@@ -1,8 +1,8 @@
-#include "holberton.h"
+#include "main.h"
 /**
- * _strchr - locates a character in a string,
- * @s: string.
- * @c: character.
+ * _strchr - this locates a character in a string,
+ * @s: the string.
+ * @c: a character.
  * Return: the pointer to the first occurrence of the character c.
  */
 char *_strchr(char *s, char c)
